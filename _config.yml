@@ -26,13 +26,7 @@ footer:
       value: dmson39@gmail.com
       link: mailto:dmson39@gmail.com
   
-  follow:
-  
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - name: Instagram
-      link: http://instagram.com/foto_teil
-  
+
 
 # Build settings
 markdown: kramdown
