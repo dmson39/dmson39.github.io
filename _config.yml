@@ -13,18 +13,21 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
-    - name: Blog
+    - name: About
+    - name: Research
+    - name: Teaching
+    - name: Extracurricular
+    - name: Photography
 
 footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+      value: dmson39@gmail.com
+      link: mailto:dmson39@gmail.com
+    - name: Instagram
+      value: instagram.com/foto_teil
+      link: "http://instagram.com/foto_teil"
   follow:
     - name: Twitter
       link: http://twitter.com/YourTwitterUsername
