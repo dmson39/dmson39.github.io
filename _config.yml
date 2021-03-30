@@ -9,7 +9,7 @@ url: "https://dmson39.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
-header:
+header: Ryan Dongmin Son
   pages:
     - name: Home
       slug: /
