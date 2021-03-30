@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Bay is a minimal Jekyll Theme.
 baseurl: "" # the subpath of the site
 url: "https://dmson39.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/title@2x.png
+og_image: /assets/img/title.png
 google_analytics: ""
 
 header: 
