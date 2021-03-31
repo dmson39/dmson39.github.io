@@ -14,7 +14,9 @@ header:
     - name: Home
       slug: /
     - name: Research
+      slug: /research
     - name: Teaching
+      slug: /teaching
     - name: Extracurricular
     - name: Photography
 
