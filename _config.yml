@@ -29,7 +29,7 @@ footer:
   Follow:
     - name: Instagram
       value: 
-      link: "https://instagram.com/foto_teil"
+      link: https://instagram.com/foto_teil
 
 
 # Build settings
