@@ -14,9 +14,7 @@ header:
     - name: Home
       slug: /
     - name: Research
-      slug: /research
     - name: Teaching
-      slug: /teaching
     - name: Extracurricular
     - name: Photography
 
@@ -28,7 +26,6 @@ footer:
       link: mailto:dmson39@gmail.com
   Follow:
     - name: Instagram
-      value: 
       link: https://instagram.com/foto_teil
 
 
