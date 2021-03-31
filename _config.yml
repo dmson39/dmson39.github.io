@@ -13,7 +13,6 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: About
     - name: Research
     - name: Teaching
     - name: Extracurricular
